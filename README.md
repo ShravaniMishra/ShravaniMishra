@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="40%"/>
+  <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" width="40%"/>
 </div>
 
 
