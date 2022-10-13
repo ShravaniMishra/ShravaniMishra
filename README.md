@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning *Backend*
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1BsG9ZxBvAco-8TkAEnkHF2JtFLI7SNT_/view?usp=sharing)
+- 📄 Check out my [Resume]
 
 - 💻 Know more about me [Portfolio](https://ShravaniMishra.github.io/)
 
