@@ -35,7 +35,7 @@
 
 - 📫 How to reach me *shravniguddi@gmail.com*
 
-- ⚡ Fun fact *World is Ending soon, So better commit your code before you....*
+- ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
 
 
 <hr />
