@@ -45,7 +45,7 @@
 <br />
 
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kailash66380956" height="30" width="40" /></a>
+<a href="https://twitter.com/SHRAVANIMISHR4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shravani-mishra-3393651b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shravani-Mishra-ba4325214" height="30" width="40" /></a>
 </p>
 <br />
