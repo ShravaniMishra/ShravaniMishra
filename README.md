@@ -3,12 +3,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" width="40%" margin-top="-50px/>
-</div>
-
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shravani Mishra <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShravaniMishra&label=Profile%20views&color=0e75b6&style=flat" alt="ShravaniMishra" /> </p>
