@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.wilsoninfo.com/computer/2019-hard-at-work-animation.gif" width="80%" height="30%"/>
+  <img src="https://www.wilsoninfo.com/computer/2019-hard-at-work-animation.gif" width="50%" height="30%"/>
 </div>
 
 
