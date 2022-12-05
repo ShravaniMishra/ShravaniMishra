@@ -123,7 +123,6 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/ShravaniMishra/github-readme-stats"><img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShravaniMishra&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
 </br>
 </br>
@@ -131,3 +130,5 @@
 <a href="https://github.com/ShravaniMishra"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShravaniMishra&theme=dracula" />
 </span></a> </p>
+
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
