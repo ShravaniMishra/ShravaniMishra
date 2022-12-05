@@ -43,11 +43,10 @@
 <h2 align="center">📱 Connect with me</h2>
 <br />
 
-<p align="center">
+<p align="center" margin="auto">
   
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SHRAVANIMISHR4)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-mishra-3393651b0/)
- [![Portfolio](https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://shravanimishra.github.io/)
 
 </p>
 <br />
