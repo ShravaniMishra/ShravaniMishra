@@ -129,3 +129,9 @@
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
+</br>
+</br>
+<p align="center">
+<a href="https://github.com/ShravaniMishra"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdali-11&theme=dracula" />
+</span></a> </p>
