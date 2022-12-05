@@ -46,7 +46,8 @@
 <p align="center">
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SHRAVANIMISHR4)
-<a href="https://www.linkedin.com/in/shravani-mishra-3393651b0/" target="blank"><img align="center" src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]" alt="Shravani-Mishra-ba4325214" height="30" width="40" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-mishra-3393651b0/)
+
 </p>
 <br />
 
