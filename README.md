@@ -133,5 +133,5 @@
 </br>
 <p align="center">
 <a href="https://github.com/ShravaniMishra"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdali-11&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShravaniMishra&theme=dracula" />
 </span></a> </p>
