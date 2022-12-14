@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning *Frontend*
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1LVylxYwrYp9fpoJB9G1eXf-H8h_K63ri/view?usp=share_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1CkPFolWw8PKlhEE6-oV76toxsmk7GlRv/view?usp=share_link)
 
 - 💻 Know more about me [Portfolio](https://ShravaniMishra.github.io/)
 
