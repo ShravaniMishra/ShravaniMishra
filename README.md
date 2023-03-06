@@ -40,14 +40,11 @@
 <hr />
 <h2 align="center">📱 Connect with me</h2>
 <br />
-
 <p align="center">
-
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SHRAVANIMISHR4)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-mishra-3393651b0/) 
- 
-  
- </p> 
+<a href="https://twitter.com/SHRAVANIMISHR4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shravani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shravani-mishra-3393651b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravani" height="30" width="40" /></a>
+</p>
+<br />
 <hr />
 
 
